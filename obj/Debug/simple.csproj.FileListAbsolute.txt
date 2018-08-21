@@ -1,0 +1,10 @@
+c:\users\hugoz\source\repos\simple\simple\bin\Debug\simple.exe.config
+c:\users\hugoz\source\repos\simple\simple\bin\Debug\simple.exe
+c:\users\hugoz\source\repos\simple\simple\bin\Debug\simple.pdb
+c:\users\hugoz\source\repos\simple\simple\obj\Debug\simple.csprojAssemblyReference.cache
+c:\users\hugoz\source\repos\simple\simple\obj\Debug\simple.Form1.resources
+c:\users\hugoz\source\repos\simple\simple\obj\Debug\simple.Properties.Resources.resources
+c:\users\hugoz\source\repos\simple\simple\obj\Debug\simple.csproj.GenerateResource.cache
+c:\users\hugoz\source\repos\simple\simple\obj\Debug\simple.csproj.CoreCompileInputs.cache
+c:\users\hugoz\source\repos\simple\simple\obj\Debug\simple.exe
+c:\users\hugoz\source\repos\simple\simple\obj\Debug\simple.pdb
